@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_year">
+        <item>1930년</item>
+        <item>1931년</item>
+        <item>1932년</item>
+        <item>1933년</item>
+        <item>1934년</item>
+        <item>1935년</item>
+        <item>1936년</item>
+        <item>1937년</item>
+        <item>1938년</item>
+        <item>1939년</item>
+        <item>1940년</item>
+        <item>1941년</item>
+        <item>1942년</item>
+        <item>1943년</item>
+        <item>1944년</item>
+        <item>1945년</item>
+        <item>1946년</item>
+        <item>1947년</item>
+        <item>1948년</item>
+        <item>1949년</item>
+        <item>1950년</item>
+        <item>1951년</item>
+        <item>1952년</item>
+        <item>1953년</item>
+        <item>1954년</item>
+        <item>1955년</item>
+        <item>1956년</item>
+        <item>1957년</item>
+        <item>1958년</item>
+        <item>1959년</item>
+        <item>1960년</item>
+    </string-array>
+
+    <string-array name="date_month">
+        <item>1월</item>
+        <item>2월</item>
+        <item>3월</item>
+        <item>4월</item>
+        <item>5월</item>
+        <item>6월</item>
+        <item>7월</item>
+        <item>8월</item>
+        <item>9월</item>
+        <item>10월</item>
+        <item>11월</item>
+        <item>12월</item>
+    </string-array>
+
+    <string-array name="date_day">
+        <item>1일</item>
+        <item>2일</item>
+        <item>3일</item>
+        <item>4일</item>
+        <item>5일</item>
+        <item>6일</item>
+        <item>7일</item>
+        <item>8일</item>
+        <item>9일</item>
+        <item>10일</item>
+        <item>11일</item>
+        <item>12일</item>
+        <item>13일</item>
+        <item>14일</item>
+        <item>15일</item>
+        <item>16일</item>
+        <item>17일</item>
+        <item>18일</item>
+        <item>19일</item>
+        <item>20일</item>
+        <item>21일</item>
+        <item>22일</item>
+        <item>23일</item>
+        <item>24일</item>
+        <item>25일</item>
+        <item>26일</item>
+        <item>27일</item>
+        <item>28일</item>
+        <item>29일</item>
+        <item>30일</item>
+        <item>31일</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>남</item>
+        <item>여</item>
+    </string-array>
+
+</resources>

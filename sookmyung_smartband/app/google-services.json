@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340864223990",
+    "firebase_url": "https://sookmyung-smartband.firebaseio.com",
+    "project_id": "sookmyung-smartband",
+    "storage_bucket": "sookmyung-smartband.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340864223990:android:951fe07512b91fea",
+        "android_client_info": {
+          "package_name": "com.test.sookmyung_smartband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340864223990-h8lbjrbrp3c21csd1oh26qe4ih7bslqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3G3eBH5shsuMrsmQ-BoHW6g02dCHT_-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
